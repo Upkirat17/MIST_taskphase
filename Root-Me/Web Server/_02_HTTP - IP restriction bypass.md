@@ -19,7 +19,7 @@ into thinking the user is connected to the same LAN server. <br>
 <br>
 <img width="1016" height="784" alt="image" src="https://github.com/user-attachments/assets/74ad437c-113a-441d-afcc-d903fed01848" />
 <br>
-## The password is: `Ip_$po0Fing`
+The password is: `Ip_$po0Fing`
 
 
 
