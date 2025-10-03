@@ -21,8 +21,9 @@ into thinking the user is connected to the same LAN server. <br>
 <br>
 The password is: `Ip_$po0Fing`
 
+<br>
 
-
+### X-Forwarded-For
 The `X-Forwarded-For` header is used in HTTP requests to keep track of the original IP address of the client when the request passes through proxies.
 <br>
 While it is used by servers to identify who is sending the request, it can also easily be used to spoof IP addresses.
