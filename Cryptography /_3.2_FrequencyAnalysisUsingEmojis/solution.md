@@ -12,7 +12,8 @@ This was my first time coming across frequency mapping and the <b>English Freque
 <br>
 The idea is to map the most frequently appearing emojies as `E`, the second most frequently appearing as `T`, the third most as `A`, and so on.
 
-This will create a skeleton of a statement, that was decoded using GPT, and the statement was the opening line to a the book **Pride and Prejudice** by **Jane Austen**.
+This will create a skeleton of a statement, that was decoded using GPT, and the statement was the opening line to a the book <br>
+**Pride and Prejudice**  by **Jane Austen**.
 <br>
 The line is <br>
 `It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.`
